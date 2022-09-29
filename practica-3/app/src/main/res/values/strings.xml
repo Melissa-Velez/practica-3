@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DSCR_17_19</string>
+
+    <string name="input_user">Usuario</string>
+    <string name="input_password">Contraseña</string>
+    <string name="crear_cuenta">CREAR CUENTA</string>
+    <string name="button_entrar">ENTRAR</string>
+    <string name="button_registro">REGISTRO</string>
+
+</resources>
